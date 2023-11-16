@@ -3,6 +3,7 @@ import SwiftUI
 struct Chapter1View: View {
     @StateObject var chapterslist: Chapterslist = Chapterslist()
     var body: some View {
+        
         NavigationView {
             ScrollView{
                 HorizontalScrolling(chapterslist: chapterslist)
@@ -27,7 +28,9 @@ struct Chapter1View: View {
             }
             
         }
-    }
+   
+            }
+            
 
 #Preview {
     Chapter1View()
