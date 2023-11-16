@@ -16,6 +16,9 @@
 		5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */; };
 		5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */; };
 		5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */; };
+		DCFFCF512B066EBF003D740D /* ChaptersPics.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFFCF502B066EBF003D740D /* ChaptersPics.swift */; };
+		DCFFCF532B066EC4003D740D /* HorizontalScrolling.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFFCF522B066EC4003D740D /* HorizontalScrolling.swift */; };
+		DCFFCF552B066ECB003D740D /* ChaptersClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFFCF542B066ECB003D740D /* ChaptersClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +32,9 @@
 		5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter3View.swift; sourceTree = "<group>"; };
 		5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 		5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter5View.swift; sourceTree = "<group>"; };
+		DCFFCF502B066EBF003D740D /* ChaptersPics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChaptersPics.swift; sourceTree = "<group>"; };
+		DCFFCF522B066EC4003D740D /* HorizontalScrolling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalScrolling.swift; sourceTree = "<group>"; };
+		DCFFCF542B066ECB003D740D /* ChaptersClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChaptersClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +92,9 @@
 			isa = PBXGroup;
 			children = (
 				5DE6F67D2AFAE3DF004ABB4F /* Chapter1View.swift */,
+				DCFFCF502B066EBF003D740D /* ChaptersPics.swift */,
+				DCFFCF522B066EC4003D740D /* HorizontalScrolling.swift */,
+				DCFFCF542B066ECB003D740D /* ChaptersClass.swift */,
 			);
 			path = Chapter1;
 			sourceTree = "<group>";
@@ -196,8 +205,11 @@
 				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
 				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
 				5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */,
+				DCFFCF532B066EC4003D740D /* HorizontalScrolling.swift in Sources */,
 				5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */,
 				5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */,
+				DCFFCF512B066EBF003D740D /* ChaptersPics.swift in Sources */,
+				DCFFCF552B066ECB003D740D /* ChaptersClass.swift in Sources */,
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
